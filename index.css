@@ -1,0 +1,95 @@
+.container {
+  width: 82%;
+  margin: 0 auto;
+  padding: 2px;
+}
+
+.button1 {
+  width: 8vw;
+  height: 6vh;
+  border: none;
+  margin-right: 22rem;
+  font-size: 1.15rem;
+  border-radius: 10px;
+  color: whitesmoke;
+  display: inline-block;
+  margin-bottom: 8vh;
+}
+
+.left {
+  background-color: #ff764e;
+}
+
+.middle {
+  background-color: #5ed3eb;
+}
+.right {
+  background-color: #ffcd69;
+}
+.header_row {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.roundimg {
+  border-radius: 50%;
+  width: 15rem;
+  height: 15rem;
+}
+
+.child {
+  display: inline-block;
+  width: 45%;
+}
+
+@font-face {
+  font-family: ChelseaMarket;
+  src: url(ChelseaMarket-Regular.ttf);
+}
+.baslik {
+  font-family: ChelseaMarket;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.altyazi {
+  font-family: ChelseaMarket;
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+
+.para {
+  box-sizing: border-box;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.2rem;
+  color: whitesmoke;
+  background-color: #ddb9a3;
+}
+
+.content {
+  width: 10%;
+  height: auto;
+  margin: auto;
+  font-family: ChelseaMarket;
+  color: black;
+  font-size: 0.8rem;
+}
+
+.footer {
+  margin: auto;
+  background-color: #f9e7dc;
+}
+
+#bg {
+  width: 100%;
+  height: 10vh;
+}
+
+.foot {
+  width: 90%;
+  margin: auto;
+}
